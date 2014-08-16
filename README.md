@@ -9,3 +9,5 @@ It's basically the same, however you can only chop trees with axes.
 
 Jeija's Timber: https://forum.minetest.net/viewtopic.php?id=1590
 Devian's New Timber: https://forum.minetest.net/viewtopic.php?id=5541
+
+My forum post: https://forum.minetest.net/viewtopic.php?f=11&t=9937
